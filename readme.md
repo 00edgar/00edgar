@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un estudiante de programación enfocado en construir soluciones eficientes y aprender nuevas tecnologías cada día. Me apasiona el desarrollo de software y cómo este puede transformar el mundo.
+Soy un estudiante de programación enfocado en construir soluciones eficientes y aprender nuevas tecnologías cada día. Me inspira el desarrollo de software y cómo este puede transformar ambitosen el mundo.
 
 * 🔭 **Actualmente estudiando en:** CAMPUSLANDS
 * 🌱 **Aprendiendo:** Lenguaje Python, Git Hub
