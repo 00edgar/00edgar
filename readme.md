@@ -24,6 +24,8 @@ PYTHON
 
 * **Python:** Aprendiendo a manejarlo.
 
+ <img src="py.png" width="150" style="border-radius: 50%;">
+ 
 ## 🏆 Proyectos Destacados
 
 1.  **[Proyecto 1]**: manejo de inventario de una tienda
