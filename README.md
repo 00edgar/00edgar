@@ -123,15 +123,22 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=00edgar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=00edgar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=00edgar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00edgar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00edgar&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=00edgar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
----
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00edgar&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Activity graph" width="98%" />
+</div>
 
 ## Como trabajo
 
