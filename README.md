@@ -8,10 +8,10 @@
   <a href="https://00edgar.github.io/portafolio/">
     <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="https://github.com/{{USUARIO_GITHUB}}?tab=repositories">
+  <a href="https://github.com/00edgar?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username={{USUARIO_GITHUB}}&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=00edgar&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
 </div>
 <h1 align="center">Hola, soy Edgar Sanchez</h1>
 
@@ -158,7 +158,7 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
   <a href="{{LINKEDIN}}">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:shyzedgar@gmail.com">
+  <a href="shyzedgar@gmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://github.com/00edgar">
