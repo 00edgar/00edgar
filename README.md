@@ -157,13 +157,13 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 
 <div align="center">
   <a href="{{LINKEDIN}}">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/edgar-s%C3%A1nchez-1457a8424/)" />
   </a>
   <a href="shyzedgar@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="shyzedgar@gmail.com" />
   </a>
   <a href="https://github.com/00edgar">
-    <img src="https://img.shields.io/badge/GitHub-00edgar-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-00edgar-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="00edgar" />
   </a>
 </div>
 
