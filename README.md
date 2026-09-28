@@ -121,16 +121,32 @@
 
 ## Actividad en GitHub
 
+<div align="center">
+ <!-- <img src="./assets/github-kpis.svg" alt="Edgar Manolo GitHub KPIs" width="49%" /> -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=00edgar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <!--<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="98%" /> -->
+</div>
+
+---
+
+## 📈 Tarjetas de Desempeño
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00edgar&theme=tokyonight" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=00edgar&theme=tokyonight" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=00edgar&theme=tokyonight" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=00edgar&theme=tokyonight" alt="Stats" width="49%" />
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00edgar&theme=tokyonight&utcOffset=-6" alt="Productive time" width="49%" />-->
+</div>
+
+
+
 <!-- Gráfica de contribuciones 100% estable que nunca falla -->
 <div align="center">
   <img src="https://ghchart.rshah.org/22c55e/00edgar" alt="Gráfica de contribuciones de Edgar" width="100%" />
-</div>
-
-<br />
-
-<!-- Resumen de racha alternativo y liviano -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=00edgar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" width="100%" />
 </div>
 
 ## Como trabajo
