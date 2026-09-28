@@ -175,4 +175,4 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 
 ---
 
-**Perfil actualizado:** 07 de agosto del 2026
+**Perfil actualizado:** 22 de septiembre del 2026
