@@ -19,15 +19,14 @@
   <strong>Desarrollador y programador</strong>
   <br />
   Estudiante de Diseño de Software en Campuslands y Bachiller en Electrónica Industrial por Villa de los Niños. Especializado en desarrollo web, diseño de bases de datos relacionales en MySQL y automatización de procesos con Python, n8n y Arduino. Enfocado en construir soluciones tecnológicas estructuradas, eficientes e intuitivas.
-  <!--
+  
 </p>
 <div align="center">
   <a href="https://github.com/00edgar">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=e;{{TYPING_LINE_2}};{{TYPING_LINE_3}};{{TYPING_LINE_4}}" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=DESARROLLADOR_FULL_STACK_JUNIOR;APACIONADO:POR_LA_COMPUTACION;ATRAIDO_POR_LA_INNOVACION_Y_EL_APRENDIZAJE" alt="Typing SVG" />
   </a>
 </div>
 
-- -->
 
 ## Que hago
 
