@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="{{NOMBRE_COMPLETO}} - {{ROL_OBJETIVO}}" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="EDGAR SANCHEZ - DESARROLLADOR" width="100%" />
 </div>
 
 <br />
@@ -171,7 +171,7 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 ## Contacto
 
 <div align="center">
-  <a href="{{LINKEDIN}}">
+  <a href="https://www.linkedin.com/in/edgar-s%C3%A1nchez-1457a8424/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/edgar-s%C3%A1nchez-1457a8424/)" />
   </a>
   <a href="shyzedgar@gmail.com">
